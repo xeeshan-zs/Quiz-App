@@ -1,0 +1,18 @@
+Teacher name
+Abrar Ali
+Aftab
+Nasir Ghaffar
+Irfan
+C
+Derivative of cos(x)
+tan(x)
+-sin(x)
+sin(x)
+cosec(x)
+B
+Integration of tanx(x)
+sec(x)^2
+tan(x)
+sec(x)^2
+cos(y)
+A

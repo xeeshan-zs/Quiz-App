@@ -1,0 +1,60 @@
+Which header file is required to use input and output streams in C++?
+iostream
+stdio.h
+fstream
+sstream
+A
+What does the 'std' namespace stand for in C++ I/O operations?
+Standard
+Stream
+Static
+Structured
+A
+Which of the following is the correct way to read a string input in C++?
+cin >> string;
+cin.getline(string);
+cin.getline(string, 100);
+getline(cin, string);
+D
+What will be the output if you print an integer variable using cout?
+The integer value
+The variable name
+Error message
+Memory address
+A
+Which of the following conditions will execute if x is 10?
+if (x < 5)
+if (x > 5)
+if (x == 15)
+if (x != 10)
+B
+Which of the following is the correct syntax for an if statement in C++?
+if x > y { ... }
+if (x > y) ...
+if (x > y) { ... }
+if x > y then ...
+C
+Which of the following statements is true for a nested if statement?
+An else is always required
+Inner if can be placed inside else
+Only one if is allowed inside another if
+Nested if statements are not allowed
+B
+Which of the following is the correct syntax for a for loop in C++?
+for (int i; i < 10; i++) { ... }
+for int i = 0; i < 10; i++ { ... }
+for (int i = 0; i < 10; i++) { ... }
+for (i = 0; i < 10; i++) { ... }
+C
+What is the expected output when using a for loop that iterates from 0 to 2 and prints the iterator value each time?
+0 1 2 3
+0 1 2
+1 2 3
+1 2
+B
+Which statement correctly describes a while loop that iterates as long as a variable is less than 3?
+The loop runs indefinitely
+The loop runs exactly 3 times
+The loop runs while the variable is greater than or equal to 3
+The loop runs while the variable is less than 3
+D

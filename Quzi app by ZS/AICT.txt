@@ -1,0 +1,30 @@
+Which network topology connects each node to exactly two other nodes, forming a single continuous pathway for signals through each node?
+Bus
+Ring
+Star
+Mesh
+B
+Which network topology involves a central hub to which all other nodes are connected?
+Bus
+Ring
+Star
+Mesh
+C
+Which network topology provides the highest redundancy and reliability due to multiple pathways between nodes?
+Bus
+Ring
+Star
+Mesh
+D
+In which network topology does a single main cable serve as the backbone for the entire network, with all nodes connected to this backbone?
+Bus
+Ring
+Star
+Mesh
+A
+Which network topology is most likely to be used in a small office or home office (SOHO) due to its simplicity and low cost?
+Bus
+Ring
+Star
+Mesh
+C

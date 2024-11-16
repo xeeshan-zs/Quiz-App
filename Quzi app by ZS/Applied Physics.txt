@@ -1,0 +1,30 @@
+Which material is most commonly used as a semiconductor in electronic devices?
+Silicon
+Copper
+Iron
+Aluminum
+A
+What type of semiconductor is created by adding pentavalent impurities to a pure semiconductor?
+N-type
+P-type
+Intrinsic
+Extrinsic
+A
+What is the process called when impurities are added to a semiconductor to change its electrical properties?
+Oxidation
+Doping
+Annealing
+Etching
+B
+Which element is commonly used to create P-type semiconductors?
+Phosphorus
+Arsenic
+Boron
+Antimony
+C
+What is the primary characteristic of an intrinsic semiconductor?
+It is doped with impurities
+It has equal numbers of electrons and holes
+It has more electrons than holes
+It is a perfect insulator
+B

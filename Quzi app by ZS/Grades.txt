@@ -1,0 +1,35 @@
+
+Name: Ateeb
+Class: BSCS-II
+Roll Number: CS-342
+Quiz Name: DM
+Marks: 2/2
+Percentage: 100.0
+
+Name: Ateeb
+Class: BSCS-II
+Roll Number: CS-342
+Quiz Name: OOP
+Marks: 7/10
+Percentage: 70.0
+
+Name: Zeeshan
+Class: BSCS-II
+Roll Number: CS-370
+Quiz Name: Pak Std
+Marks: 0/10
+Percentage: 0.0
+
+Name: ZEESHAN
+Class: BSCS-II
+Roll Number: CS-370
+Quiz Name: Programming Fundamentals
+Marks: 7/10
+Percentage: 70.0
+
+Name: Zeeshan Sarfraz
+Class: BSCS-II(B)
+Roll Number: CS-370
+Quiz Name: Quiz 3
+Marks: 2/2
+Percentage: 100.0
